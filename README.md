@@ -10,7 +10,7 @@
 In your `Package.swift` file, add the following
 
 ~~~~swift
-.package(url: "https://github.com/vapor-community/stripe.git", from: "8.0.0")
+.package(url: "https://github.com/vapor-community/stripe.git", from: "10.0.0")
 ~~~~
 
 
